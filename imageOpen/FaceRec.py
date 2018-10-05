@@ -22,7 +22,7 @@ mypath = 'C:\\FaceRec\\facialRecognitionImages\\'
 directory = 'C:\\FaceRec\\facialRecognitionImages\\source.jpg'
 
 #defining key and URL to access mircrosoft's webiste to detect, identify, and verify faces for australia
-KEY = '<insert_azure_facial_recognition_service_key_here>' 
+KEY = '90b711d5add34bf19843c85d8e4f707c' 
 CF.Key.set(KEY)
 BASE_URL = 'https://australiaeast.api.cognitive.microsoft.com/face/v1.0/' 
 CF.BaseUrl.set(BASE_URL)
